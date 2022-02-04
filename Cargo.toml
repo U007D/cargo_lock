@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "foo",
+    "examples/hack"
+]
